@@ -19,10 +19,10 @@
   },
   "devDependencies": {
     "lab": "0.1.x",
-    "hapi": "1.x.x"
+    "hapi": "8.x.x"
   },
   "peerDependencies": {
-    "hapi": "1.x.x"
+    "hapi": "8.x.x"
   },
   "keywords": [
     "hapi",
