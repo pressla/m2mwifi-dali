@@ -14,7 +14,9 @@
   "scripts": {
     "test": "make test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "serialport": "^1.6.1"
+  },
   "devDependencies": {
     "lab": "0.1.x",
     "hapi": "1.x.x"
