@@ -1,0 +1,29 @@
+{
+  "name": "m2mwifi-dali",
+  "version": "0.0.1",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "undefined/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "lab": "0.1.x",
+    "hapi": "1.x.x"
+  },
+  "peerDependencies": {
+    "hapi": "1.x.x"
+  },
+  "keywords": [
+    "hapi",
+    "plugin"
+  ]
+}
